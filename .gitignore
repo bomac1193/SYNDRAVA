@@ -1,0 +1,44 @@
+# Max/MSP specific
+*.mxo
+*.mxe
+*.mxe64
+.DS_Store
+Thumbs.db
+
+# Max backup files
+*.maxpat.orig
+*.amxd.orig
+
+# System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+~*
+
+# Audio samples (optional - uncomment if samples get too large)
+# *.wav
+# *.aif
+# *.aiff
+# *.mp3
+
+# macOS
+.AppleDouble
+.LSOverride
+
+# Windows
+desktop.ini
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
